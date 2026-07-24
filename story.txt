@@ -5,3 +5,4 @@ the dragon could fly
 king becomes old
 The dragon found a treasure.
 A knight appeared.
+The knight fought bravely.
