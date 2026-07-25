@@ -12,3 +12,4 @@ king came
 princess arrived
 The king built a new castle.
 The dragon found a magic shield.
+The knight found a magic sword.
